@@ -4,8 +4,12 @@
   "description": "starter template for bs5",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
   },
-  "author": "andrew teece",
-  "license": "ISC"
+  "author": "Andrew Teece",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "1.64.1"
+  }
 }
