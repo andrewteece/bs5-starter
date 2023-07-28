@@ -1,0 +1,11 @@
+{
+  "name": "bs5-starter",
+  "version": "1.0.0",
+  "description": "starter template for bs5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew teece",
+  "license": "ISC"
+}
